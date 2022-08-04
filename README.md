@@ -1,2 +1,3 @@
 # C-Lessons
-GeekBrains lesson1
+GeekBrains 
+Введение в языки программирования (C#) lesson1
