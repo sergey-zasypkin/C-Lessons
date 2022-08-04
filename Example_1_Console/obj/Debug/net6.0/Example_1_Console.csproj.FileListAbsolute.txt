@@ -1,0 +1,15 @@
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\bin\Debug\net6.0\Example_1_Console.exe
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\bin\Debug\net6.0\Example_1_Console.deps.json
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\bin\Debug\net6.0\Example_1_Console.runtimeconfig.json
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\bin\Debug\net6.0\Example_1_Console.dll
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\bin\Debug\net6.0\Example_1_Console.pdb
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.csproj.AssemblyReference.cache
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.AssemblyInfoInputs.cache
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.AssemblyInfo.cs
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.csproj.CoreCompileInputs.cache
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.dll
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\refint\Example_1_Console.dll
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.pdb
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\Example_1_Console.genruntimeconfig.cache
+C:\Users\Sergey Zasypkin\Desktop\GB\C#\Lesson1\Example_1_Console\obj\Debug\net6.0\ref\Example_1_Console.dll
